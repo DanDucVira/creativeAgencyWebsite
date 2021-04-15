@@ -37,7 +37,13 @@ section {
     height: 100vh;
     align-items: center;
     padding: 100px;
+    margin-top: 60px;
 
+}
+
+section.home {
+    flex-direction: row;
+    margin-top: 0;
 }
 
 /*Button*/
